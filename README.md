@@ -2,3 +2,5 @@
 
 > list of awesome, bulletproof [components](#components) and other [resources](#resources) related to React ecosystem.
 
+### Search, filter, sort
+- [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch/)
