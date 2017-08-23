@@ -9,3 +9,6 @@
 
 ### Auth
 - [Facebook](https://github.com/keppelen/react-facebook-login) - authenticate users via Facebook
+
+### Charts
+- [recharts](https://github.com/recharts/recharts)
