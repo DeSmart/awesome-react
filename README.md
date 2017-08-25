@@ -12,3 +12,6 @@
 
 ### Charts
 - [recharts](https://github.com/recharts/recharts)
+
+### Utils
+- [react-string-replace](https://github.com/iansinnott/react-string-replace) - string to React components. Helpful when parsing
